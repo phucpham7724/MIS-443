@@ -6,6 +6,7 @@ Student Information
 ---
 
 Project Overview
+
 This project demonstrates how to set up the Northwind database in PostgreSQL, write SQL queries, and visualize query results using Power BI.
 
 ---
