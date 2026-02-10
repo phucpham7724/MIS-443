@@ -11,6 +11,7 @@ This project demonstrates how to set up the Northwind database in PostgreSQL, wr
 ---
 
 Tasks Completed
+
 Part 1 – Setup Database  
 Part 2 – SQL Practice Questions  
 + Question 1 – Simple SQL (Single Table)  
