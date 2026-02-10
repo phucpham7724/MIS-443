@@ -1,6 +1,6 @@
 Student Information
-- Name: Phúc Phạm
-- Student ID: (điền MSSV của bạn)
+- Name: Phạm Hoàng Phúc 
+- Student ID: 2232300244
 - Course: MIS443 – Business Data Management
 
 ---
